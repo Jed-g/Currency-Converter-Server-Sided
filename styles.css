@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.box {
+  display: inline-block;
+  font-weight: 300;
+  width: 15%;
+  font-size: 2rem;
+  margin: 1rem;
+}
